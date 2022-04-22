@@ -21,8 +21,8 @@ body {
 }
 
 .image {
-  width: 75%;
-  height: 100% !important;
+  width: 90%;
+  height: 95% !important;
 }
 
 @media (max-width: 768px) {
